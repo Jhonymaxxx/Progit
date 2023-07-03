@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Titulo do meu site</title>
+</head>
+
+
+
+<body>
+    <h1>Titulo da pagina</h1>
+<p>Primeira linha de texto da pagina</p>
+<br>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. A, voluptatum.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, quam porro. Voluptates consequatur maiores ea est deserunt, pariatur explicabo eum provident corrupti natus laudantium autem dolore repellat praesentium aliquid assumenda accusamus expedita dolorum incidunt aspernatur eaque eos officiis quidem! Iure ex rerum animi, corporis molestiae suscipit facere laboriosam minus natus atque nulla ea ipsa saepe veritatis nam unde distinctio maiores architecto debitis corrupti magni blanditiis rem. Impedit fugiat omnis quisquam perspiciatis voluptatem reiciendis error repellat ea molestiae quaerat. Debitis odit blanditiis quo itaque enim delectus dolorum, est earum, distinctio quis vel quidem vitae, provident aspernatur necessitatibus magni iure ad quia!</p>
+    <h1>Segundo titulo</h1>
+    <h2>subtitulo</h2>
+    <h6>6x-subtitulo</h6>
+    <!--Primeira imagem do site-->
+    <img src="Aguia.jpg" alt="Aguia" width="400">
+
+    <input type="button" value="Click">
+
+</body>
+    
+
+
+<html></html>
